@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Quadroter mark 1",
+        "description": "Perfect for any situation! Can handle windspeeds up to 20 mph, and carry up to five pounds.",
+        "available": "true"
+    },
+    {
+        "id": "2",
+        "name": "Quadroter mark 1 rev 2",
+        "description": "Classified",
+        "available": "false"
+    },
+    {
+        "id": "3",
+        "name": "Quadroter mark 3",
+        "description": "For those bigger jobs. Carries twenty pounds, with a runtime of a half hour per charge.",
+        "available": "true"
+    },
+    {
+        "id": "4",
+        "name": "Quadroter mark 1 rev 3",
+        "description": "Like the mark 1, but with enhanced battery controller technology.",
+        "available": "true"
+    }
+]

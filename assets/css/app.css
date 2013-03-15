@@ -1,0 +1,9 @@
+.jumbotron { text-align: center; margin: auto; width: 55%; }
+.jumbotron h1 {font-size: 70px; line-height: 1;}
+.accent { color: #00CCCC; }
+.container { margin: auto; width: 55%; }
+.sidebar { background-color: #eee; }
+.main { min-height: 400px; }
+.footer { margin-top: 20px; color: #ccc;}
+
+.drones td { border-top: none; }
